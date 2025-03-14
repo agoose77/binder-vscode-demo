@@ -1,0 +1,9 @@
+name: vscode
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-server-proxy
+  - jupyter-vscode-proxy
+  - code-server >=3.2
+  - jupyterlab
+  - python >=3.11
